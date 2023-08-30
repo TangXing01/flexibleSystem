@@ -18,7 +18,7 @@ import { Edit } from '@element-plus/icons-vue'
 </template>
 
 <style scoped lang="scss">
-.test{
+.test {
   color: $red;
 }
 .logo {
